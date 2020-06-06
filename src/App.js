@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> without docker build.
+          Edit <code>src/App.js</code> without docker build next try.
         </p>
         <a
           className="App-link"
